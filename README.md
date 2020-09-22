@@ -1,0 +1,2 @@
+# wusa
+WUSA Nominations shortlinks
